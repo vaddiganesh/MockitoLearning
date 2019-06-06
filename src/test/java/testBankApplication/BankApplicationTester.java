@@ -29,4 +29,9 @@ public class BankApplicationTester {
 		
 		Assert.assertEquals(2500, grossBalance);
 	}
+	
+	@Test
+	public void testCurrentAccountBalance() {
+		
+	}
 }
